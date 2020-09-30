@@ -1,0 +1,54 @@
+.parallax-1 {
+    /* The image used */
+    background-image: url("/parallax-practice/photos/josh-rangel-aDmYkVd6rs4-unsplash.jpg");
+  
+    /* Set a specific height */
+    height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .parallax-2 {
+    
+    background-image: url("/parallax-practice/photos/marko-xSeG6xHP-Ec-unsplash.jpg");
+  
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .parallax-3 {
+    
+    background-image: url("/parallax-practice/photos/tran-mau-tri-tam-2bmnndIFmDc-unsplash.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .parallax-4 {
+    
+    background-image: url("/parallax-practice/photos/ryan-loughlin-J2V5PUUDYR8-unsplash.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .parallax-5 {
+    
+    background-image: url("/parallax-practice/photos/jonas-tebbe-i6TiA4Hs4MQ-unsplash.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
